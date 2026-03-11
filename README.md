@@ -1,1 +1,1 @@
-# Deteksi Warna
+# Deteksi Warna RGB
